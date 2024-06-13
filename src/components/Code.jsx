@@ -31,7 +31,6 @@ const Code = () => {
             />
             <Editor
                 heading="JavaScript"
-
                 icon=""
                 color="#FCD000"
                 value={js}
